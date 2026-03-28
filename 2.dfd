@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+" tablas de nultiplicar para cualquier numero"
+6
+3
+7
+numero 
+1
+0
+5
+ciclo
+1
+0
+9
+resultado
+1
+0
+4
+1
+84
+" digite el numero de la tabla de multiplicar de la que quiera saber sus resultados"
+5
+1
+6
+numero
+4
+1
+48
+" la tabla de multiplicar del"  , numero,  " es"
+8
+1
+5
+ciclo
+1
+1
+1
+1
+2
+10
+1
+1
+1
+6
+1
+9
+resultado
+12
+numero*ciclo
+4
+1
+33
+numero,"x", ciclo, "=", resultado
+10
+1
